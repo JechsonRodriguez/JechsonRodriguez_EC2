@@ -1,0 +1,2 @@
+insert into usuario(usuario,password,rol) values('jechson','$2a$12$tPYvgghcOBYg.NclbMtCOOj/H8oB2v9XiwQyGBa5wbrseo/sC43Mi','ROLE_USER');
+insert into usuario(usuario,password,rol) values('admin','$2a$12$WF1VPyOP0VquV6HD/wPXHOLFAcObCoYIds43PPzwICSf2O1ua3iEq','ROLE_ADMIN');
